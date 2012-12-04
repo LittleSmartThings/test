@@ -1,0 +1,7 @@
+home=1354547245000
+cluster=1354621490000
+platform=1354547245000
+user=1354621490000
+crc=7
+locale=en_US
+branding=wordprocessor

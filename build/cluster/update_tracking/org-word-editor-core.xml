@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.word.editor.core">
+    <module_version install_time="1354621490072" last="true" origin="installer" specification_version="1.0">
+        <file crc="3402755310" name="config/Modules/org-word-editor-core.xml"/>
+        <file crc="3331480449" name="modules/org-word-editor-core.jar"/>
+    </module_version>
+</module>
